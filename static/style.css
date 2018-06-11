@@ -1,0 +1,20 @@
+.main-c{
+	color: #6335cc;
+}
+.main-bg{
+	background-color: #6335cc;
+}
+.white, .white p, 
+.white span {
+	color: #fff;
+}
+.blue {
+  color: #21a7dd !important;
+  fill: #21a7dd !important;
+}
+.no-padding-l {
+	padding-left: 0;
+}
+.navbar {
+	margin-bottom: 0 !important;
+}
